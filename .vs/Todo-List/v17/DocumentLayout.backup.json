@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Todo-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\item\\item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\item\\item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\item\\item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\item\\item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|c:\\users\\user\\source\\repos\\todo-list\\todo-list\\src\\app\\item\\item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E89C9DE-172D-480A-905D-C7158CE2EBEF}|Todo-List\\Todo-List.esproj|solutionrelative:todo-list\\src\\app\\item\\item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.css",
+              "RelativeToolTip": "Todo-List\\src\\app\\app.component.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T12:18:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\index.html",
+              "RelativeDocumentMoniker": "Todo-List\\src\\index.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\index.html",
+              "RelativeToolTip": "Todo-List\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T12:18:25.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.html",
+              "RelativeToolTip": "Todo-List\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T12:17:38.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "item.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.ts",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\item\\item.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.ts",
+              "RelativeToolTip": "Todo-List\\src\\app\\item\\item.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T12:14:51.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\app.component.ts",
+              "RelativeToolTip": "Todo-List\\src\\app\\app.component.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T12:14:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "item.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.css",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\item\\item.component.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.css",
+              "RelativeToolTip": "Todo-List\\src\\app\\item\\item.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T12:19:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "item.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.html",
+              "RelativeDocumentMoniker": "Todo-List\\src\\app\\item\\item.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Todo-List\\Todo-List\\src\\app\\item\\item.component.html",
+              "RelativeToolTip": "Todo-List\\src\\app\\item\\item.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T12:07:48.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
